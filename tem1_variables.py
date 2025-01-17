@@ -1,5 +1,6 @@
-#variables int, float, string, no existe el tipado por defecto
-
+"""
+Varibles int, float, string, no existe el tipado por defecto 
+"""
 num1=2
 num2=3.5
 nombre="Mario"
