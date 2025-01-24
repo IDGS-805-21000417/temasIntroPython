@@ -15,5 +15,3 @@ coor2.append(x)
 resultado = math.sqrt((((coor2[0]-coor1[0])**2)+((coor2[1]-coor1[1])**2)))
 
 print("El resultado es: ", resultado)
-
-    #Dia 16 arcivos ..Commit

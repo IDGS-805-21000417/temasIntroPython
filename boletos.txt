@@ -1,0 +1,19 @@
+Nombre: Tristan costo: 48.6 
+Nombre: Tris costo: 183.6 
+Total: 232.2
+ ---------- 
+Nombre:  costo: 12 
+Total: 12.0
+ ---------- 
+Nombre: Tristan costo: 119.33999999999999 
+Total: 119.33999999999999
+ ---------- 
+Nombre: Tristan costo: 64.26 
+Nombre: Juan costo: 132.6 
+Total: 196.86
+ ---------- 
+Nombre: Pedro costo: 64.26 
+Nombre: Dario costo: 192.77999999999997 
+Nombre: Veronica costo: 24 
+Total: 281.03999999999996
+ ---------- 
