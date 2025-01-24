@@ -15,5 +15,5 @@ Total: 196.86
 Nombre: Pedro costo: 64.26 
 Nombre: Dario costo: 192.77999999999997 
 Nombre: Veronica costo: 24 
-Total: 281.03999999999996
+Total: 281.039999999996
  ---------- 
